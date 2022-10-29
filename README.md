@@ -18,7 +18,7 @@
  3.adım-- [2,3,4,5,7,9,8,15,6]
  4.adım-- [2,3,4,5,6,9,8,15,7]
  
- ##Project 2-Merge Project
+ ## Project 2-Merge Project
  
  [6,21,11,8,12,22]--verilen dizi
  
@@ -32,7 +32,7 @@
  
  Big O notaion:  O(nlogn)
  
- ##Porject 3-Binary Search Tree Project
+ ## Porject 3-Binary Search Tree Project
  
  [7,5,1,8,3,6,0,9,4,2]
  
