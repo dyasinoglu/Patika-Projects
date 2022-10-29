@@ -18,6 +18,34 @@
  3.adım-- [2,3,4,5,7,9,8,15,6]
  4.adım-- [2,3,4,5,6,9,8,15,7]
  
-
+ ##Project 2-Merge Project
+ 
+ [6,21,11,8,12,22]--verilen dizi
+ 
+ 1.adım-- [6,21,11]          [8,12,22]
+ 
+ 2.adım-- [6]  [21,11]      [8,12] [22]   
+ 
+ 3.adım--  [6,11,21]        [8,12,22]
+ 
+ 4.adım--  [6,8,11,12,21,22]
+ 
+ Big O notaion:  O(nlogn)
+ 
+ ##Porject 3-Binary Search Tree Project
+ 
+ [7,5,1,8,3,6,0,9,4,2]
+ 
+ Root 5 tir.  
+ 7 5'in sağında ve 1 5'in solundadır.
+ 8 7'in sağındadır ve 3 1'in sağındadır.
+ 6 7'nin solundadır ve 0 1'in solundadır.
+ 9 8'in sağındadır ve 4 3'ün sağındadır.
+ 2  3'ün solundadır
+ 
+                root-->  5
+                   1           7
+                 0    3      6    8
+                    2   4          9
 
 
