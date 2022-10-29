@@ -48,6 +48,5 @@
                  0    3      6    8
                     2   4          9
                     
-   [Pativa.Dev                 
-
+   [Patika.dev](https://www.patika.dev/tr)
 
